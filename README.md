@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 Current Projects
+
+I'm currently working on multiple AI-powered creative platforms that transform how people create and enjoy visual content:
+
+---
+
+### 🎨 **[Morse Code Generator](https://morsecodegenerator.org)**
+
+### 🎨 **[AI Image Enhancer](https://enhanceimage.org)**
