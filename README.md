@@ -23,4 +23,6 @@ I'm currently working on multiple AI-powered creative platforms that transform h
 
 ### 🎨 **[Morse Code Generator](https://morsecodegenerator.org)**
 
-### 🎨 **[AI Image Enhancer](https://enhanceimage.org)**
+### 🎨 **[AI Image Enhancer: Upscale & Edit Photo Quality Online](https://enhanceimage.org)**
+
+### 🎨 **[Free QR Code Generator - Dynamic Tracking & Custom Logo | QrBarKit](https://qrbarkit.com)**
