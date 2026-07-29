@@ -31,4 +31,5 @@ I'm currently working on multiple AI-powered creative platforms that transform h
 
 
 [bsky](https://bsky.app/profile/morsetranslator.bsky.social)
-[map](https://maps.google.com/url?q=https%3A%2F%2Fmp3transcript.com%2F)
+[map of mp3transcript](https://maps.google.com/url?q=https%3A%2F%2Fmp3transcript.com%2F)
+[map of vpsheet](https://maps.google.com/url?q=https%3A%2F%2Fvpsheet.com%2F)
