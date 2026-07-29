@@ -28,3 +28,7 @@ I'm currently working on multiple AI-powered creative platforms that transform h
 ### 🎨 **[AI Image Enhancer: Upscale & Edit Photo Quality Online](https://enhanceimage.org)**
 
 ### 🎨 **[Roblox Piano Sheets](https://vpsheet.com)**
+
+
+[bsky](https://bsky.app/profile/morsetranslator.bsky.social)
+[map](https://maps.google.com/url?q=https%3A%2F%2Fmp3transcript.com%2F)
