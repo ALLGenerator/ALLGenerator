@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 I'm currently working on multiple AI-powered creative platforms that transform how people create and enjoy visual content:
 
 ---
+### 🎨 **[Barcode Generator](https://qrbarkit.com/barcode-generator)**
 
 ### 🎨 **[MP3 to Transcript](https://mp3transcript.com/)**
 
@@ -33,4 +34,5 @@ I'm currently working on multiple AI-powered creative platforms that transform h
 [bsky](https://bsky.app/profile/morsetranslator.bsky.social)
 [map of mp3transcript](https://maps.google.com/url?q=https%3A%2F%2Fmp3transcript.com%2F)
 [map of vpsheet](https://maps.google.com/url?q=https%3A%2F%2Fvpsheet.com%2F)
+[map of qrbarkit](https://maps.google.com/url?q=https%3A%2F%2Fqrbarkit.com%2Fbarcode-generator)
 [notion](https://dynamic-comfort-28d.notion.site/YC-Startup-1a1fa35af70d80ce896ce0da02f4a56f)
