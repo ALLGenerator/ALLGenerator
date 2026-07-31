@@ -22,9 +22,9 @@ I'm currently working on multiple AI-powered creative platforms that transform h
 ---
 ### 🎨 **[Barcode Generator](https://qrbarkit.com/barcode-generator)**
 
-### 🎨 **[MP3 to Transcript](https://mp3transcript.com/)**
+### 🎨 **[Transcribe Audio to Text](https://mp3transcript.com/)**
 
-### 🎨 **[Morse Code Generator](https://morsecodegenerator.org)**
+### 🎨 **[Morse Code Translator](https://morsecodegenerator.org)**
 
 ### 🎨 **[AI Image Enhancer: Upscale & Edit Photo Quality Online](https://enhanceimage.org)**
 
