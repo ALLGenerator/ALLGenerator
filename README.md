@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 I'm currently working on multiple AI-powered creative platforms that transform how people create and enjoy visual content:
 
 ---
-### 🎨 **[Barcode Generator](https://qrbarkit.com/barcode-generator)**
-
 ### 🎨 **[Transcribe Audio to Text](https://mp3transcript.com/)**
 
-### 🎨 **[Morse Code Translator](https://morsecodegenerator.org)**
+### 🎨 **[Morse Code Generator](https://morsecodegenerator.org)**
 
-### 🎨 **[AI Image Enhancer: Upscale & Edit Photo Quality Online](https://enhanceimage.org)**
+### 🎨 **[AI Image Enhancer](https://enhanceimage.org)**
 
 ### 🎨 **[Roblox Piano Sheets](https://vpsheet.com)**
 
