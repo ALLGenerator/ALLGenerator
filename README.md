@@ -28,6 +28,8 @@ I'm currently working on multiple AI-powered creative platforms that transform h
 
 ### 🎨 **[Roblox Piano Sheets](https://vpsheet.com)**
 
+### 🎨 **[Percy Jackson Cabin Quiz](https://cabinquiz.org)**
+
 
 [bsky of allgenerator](https://bsky.app/profile/allgenerator.bsky.social)
 [map of mp3transcript](https://maps.google.com/url?q=https%3A%2F%2Fmp3transcript.com%2F)
